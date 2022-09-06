@@ -24,4 +24,4 @@ Generate il labirinto randomicamente
 
 # :skull_and_crossbones: Ultra mega bonus stage:
 ## Io ve lo dico, è difficile...
-Fate in modo che il computer sia in grado di risolvere da solo il labirinto.
+Fate in modo che il computer sia in grado di risolvere da solo il labirinto. 
