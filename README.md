@@ -8,11 +8,11 @@ This repo collects all the excercises produced and gathered by [Melvin Massotti]
 
 | Module | Subject                 | Contents                             |
 |--------|-------------------------|--------------------------------------|
-| 1      | Java Syntax and naming  | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_01/src)            |
-| 2      | Control flow statements | [Esercizi matrici](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_02/src)    |
-| 3      | Git                     | [Labyrinth](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_03/src/Labyrinth) |
-| 4      | OOP                     | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_04/src)            |
-| 5      | Ereditarietà Base       | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_05/src)           |
+| 1      | Java Syntax and naming  | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_01/src)            |
+| 2      | Control flow statements | [Esercizi matrici](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_02/src)    |
+| 3      | Git                     | [Labyrinth](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_03/src/Labyrinth) |
+| 4      | OOP                     | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_04/src)            |
+| 5      | Ereditarietà Base       | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_05/src)           |
 <!--
 | 6      | Ereditarietà Avanzata   | [Esercizi](module_06/src), [Esempi interfacce](module_06/src/esempioInterfacce)|
 | 7      | Generics & Collections   | [Esercizi](module_07/src) |
