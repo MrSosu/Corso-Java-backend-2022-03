@@ -2,17 +2,17 @@
 
 # Corso-Java-Backend-2022-01
 
-This repo collects all the excercises produced and gathered by [Melvin Massotti](https://github.com/melvinm99), [Marco Adriani](https://github.com/MrSosu), [Pietro Marchetto](https://github.com/pimarchetto), [Andrea Gasparini](https://github.com/andrea-gasparini) and [Matteo Stabilini](https://github.com/mstab20) for the teaching of the 2022 Java Backend Course offered by [TreeSchool](https://tree.it/school/).
+This repo collects all the excercises produced and gathered by [Melvin Massotti](https://github.com/melvinm99), [Marco Adriani](https://github.com/MrSosu), [Pietro Marchetto](https://github.com/pimarchetto) and [Andrea Gasparini](https://github.com/andrea-gasparini) for the teaching of the 2022 Java Backend Course offered by [TreeSchool](https://tree.it/school/).
 
 # Index
 
 | Module | Subject                 | Contents                             |
 |--------|-------------------------|--------------------------------------|
-| 1      | Java Syntax and naming  | [Esercizi](module_01/src)            |
-| 2      | Control flow statements | [Esercizi matrici](module_02/src)    |
-| 3      | Git                     | [Labyrinth](module_03/src/Labyrinth) |
-| 4      | OOP                     | [Esercizi](module_04/src)            |
-| 5      | Ereditarietà Base       | [Esercizi](module_05/src)           |
+| 1      | Java Syntax and naming  | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_01/src)            |
+| 2      | Control flow statements | [Esercizi matrici](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_02/src)    |
+| 3      | Git                     | [Labyrinth](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_03/src/Labyrinth) |
+| 4      | OOP                     | [Esercizi]https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_04/src)            |
+| 5      | Ereditarietà Base       | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/modulo_05/src)           |
 <!--
 | 6      | Ereditarietà Avanzata   | [Esercizi](module_06/src), [Esempi interfacce](module_06/src/esempioInterfacce)|
 | 7      | Generics & Collections   | [Esercizi](module_07/src) |
