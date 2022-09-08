@@ -12,7 +12,7 @@ This repo collects all the excercises produced and gathered by [Melvin Massotti]
 | 2      | Control flow statements | [Esercizi matrici](module_02/src)    |
 | 3      | Git                     | [Labyrinth](module_03/src/Labyrinth) |
 | 4      | OOP                     | [Esercizi](module_04/src)            |
-| 5      | Ereditarietà Base       | [Esercizi](module_05/src))           |
+| 5      | Ereditarietà Base       | [Esercizi](module_05/src)           |
 <!--
 | 6      | Ereditarietà Avanzata   | [Esercizi](module_06/src), [Esempi interfacce](module_06/src/esempioInterfacce)|
 | 7      | Generics & Collections   | [Esercizi](module_07/src) |
