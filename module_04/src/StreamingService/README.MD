@@ -30,7 +30,7 @@ Un esempio di alcune possibili classi (da integrare ed estendere con le informaz
   + Anno
   + Cast
   + Genere
-  + PG
+  + [PG](https://www.canr.msu.edu/news/what_do_movie_ratings_mean#:~:text=PG%3A%20Parental%20Guidance%20Suggested%2C%20Some,more%20than%20guidance%20is%20suggested)
   + Originale
 + _Film_
 + _Serie TV_
