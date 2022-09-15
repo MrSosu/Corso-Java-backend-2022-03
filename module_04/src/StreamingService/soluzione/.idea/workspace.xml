@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a82dc72e-b909-4000-bf78-a237a42534fc" name="Changes" comment="" />
+    <list default="true" id="a82dc72e-b909-4000-bf78-a237a42534fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../module_08/src/Exceptions/ex1_NullPointer/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module_08/src/Exceptions/ex1_NullPointer/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module_08/src/Exceptions/ex2_NullPointer/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module_08/src/Exceptions/ex2_NullPointer/Readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,9 +33,32 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="streamingService.profilo" />
+      <recent name="streamingService.prodotto" />
+      <recent name="streamingService.eccezioni" />
+      <recent name="streamingService" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StreamingServiceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamingService.StreamingServiceMain" />
+      <module name="streamingService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamingServiceMain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,5 +81,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
