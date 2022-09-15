@@ -13,6 +13,7 @@ This repo collects all the excercises produced and gathered by [Melvin Massotti]
 | 3      | Git                     | [Labyrinth](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_03/src/Labyrinth) |
 | 4      | OOP                     | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_04/src)            |
 | 5      | Ereditarietà Base       | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_05/src)            |
+| 6      | Ereditarietà Avanzata   | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_06/src)            |
 | 7      | Generics & Collections  | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_07/src)            |
 | 8      | Eccezioni e annotazioni | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_08/src)            |
 <!--
