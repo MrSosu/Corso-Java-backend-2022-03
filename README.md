@@ -18,8 +18,8 @@ This repo collects all the excercises produced and gathered by [Melvin Massotti]
 | 8      | Eccezioni e annotazioni | [Esercizi](https://github.com/MrSosu/Corso-Java-backend-2022-03/tree/main/module_08/src)            |
 | 9      | Packages                | [Esercizi](module_09/src)                                                                           |
 | 10     | Design Patterns         | [Esempi](module_10/src/Esempi)                                                                      |
+| 12     | Java Stream             | [Esercizi](module_12/src) |
 <!--
-| 12     | Java Stream              | [Esercizi](module_12/src) |
 | 13     | API                      | [Esercizi](module_13/src) |
 | 14     | Spring                   | [Esercizi](module_14/src) |
 | 15     | Design Patterns          | [Esercizi](module_15/src) |
