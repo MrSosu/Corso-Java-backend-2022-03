@@ -58,3 +58,9 @@ _**Consiglio per stilare una classifica:** se avete inserito la valutazione a st
 ## Nota Bene
 
 Questo esercizio dá la possibilità di sfruttare alcuni aspetti dell'ereditarietà, che vedremo nei moduli 5 e 6, e delle generics collection, del modulo 7. Una volta sostenuti questi moduli, è possibile riprendere in mano l'esercizio per migliorare il risultato sfruttando le nuove conoscenze.
+
+## Esempio diagramma ER
+
+In riferimento al Modulo 16, un possibile schema ER per l'esercizio. Non è l'unica soluzione possibile e sono state fatte delle assunzioni per scopo didattico in modo da poter rappresentare più varianti possibili (es. tutti i tipo di relazioni, 1:1, 1:N, N:N, e entità con chiavi primarie composte da più attributi)
+
+![Rogue](Immagini/diagrammaER.png)
