@@ -10,8 +10,8 @@ public class ConnectionHandler {
 
     public ConnectionHandler(String dbUrl, String dbName, String schema, String username, String password) throws ClassNotFoundException {
         this.connectionUrl = dbUrl + dbName
-                + "?currentSchema="+ schema
-                + "&user="+username
+                + "?currentSchema=" + schema
+                + "&user=" + username
                 + "&password=" + password;
 
         // Occorre conoscere il nome del driver e il suo package
@@ -29,13 +29,13 @@ public class ConnectionHandler {
     }
 
     public void closeConnection() throws SQLException {
-        if ( this.connection != null && !this.connection.isClosed()) {
+        if ( this.connection != null && !this.connection.isClosed() ) {
             this.connection.close();
             this.connection = null;
         }
     }
 
-    public PreparedStatement getPreparedStatement(String query) throws SQLException {
+    public PreparedStatement prepareStatement(String query) throws SQLException {
         // Uso il metodo getConnection invece di accedere direttamente per
         // garantire che la connection sia attiva
         Connection conn = getConnection();
@@ -50,8 +50,8 @@ public class ConnectionHandler {
         );
 
         String query = "SELECT * FROM tabella";
-        PreparedStatement p = connectionHandler.getPreparedStatement(query);
-        ResultSet rs = p.executeQuery();
+        PreparedStatement stmt = connectionHandler.prepareStatement(query);
+        ResultSet rs = stmt.executeQuery();
 
         while(rs.next()) {
             int id = rs.getInt("id");
@@ -60,8 +60,8 @@ public class ConnectionHandler {
             System.out.println(id + ": " + nome + " " + cognome);
         }
 
-        p.close();
         rs.close();
+        stmt.close();
     }
 
 }
